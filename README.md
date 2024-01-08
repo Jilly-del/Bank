@@ -4,3 +4,6 @@ pin: 1111
 
 username 2: jd
 pin: 2222
+
+
+Only the desktop site is available
